@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Official implementation** of the paper "EduVidQA: Generating and Evaluating Long-form Answers to Student Questions based on Lecture Videos" published at EMNLP 2025 Main Conference.
+> **Official implementation** of the paper "EduVidQA: Generating and Evaluating Long-form Answers to Student Questions based on Lecture Videos" published at the EMNLP 2025 Main Conference as a long paper.
 
 ## 📖 Overview
 
