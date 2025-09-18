@@ -1,0 +1,20 @@
+{
+    "LLM model": {
+      "model_to_use": "gpt-4o", 
+      "options": ["gpt-4o", "gemini-1.5"],
+      "openai_api_key": "",
+      "gemini_api_key": ""
+    },
+    "data paths": {
+      "input_path": "placeholder_file.csv",
+      "output_path": ""
+    },
+    "metric choices": {
+      "entailment score": true,
+      "factqa score": true,
+      "clarity": true,
+      "encouraging critical thinking": true,
+      "using pedagogical techniques": true
+
+    }
+  }
