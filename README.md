@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-EduVidQA is a benchmarking dataset and evaluation framework for generating and assessing long-form answers to student questions based on lecture videos.
+EduVidQA is a benchmarking dataset for generating long-form answers to student questions based on lecture videos.
 
 ![image info](./assets/eduvidqa_task_diagram.png)
 
