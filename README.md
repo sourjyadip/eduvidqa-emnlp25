@@ -26,7 +26,7 @@ For video and transcript data, we recommend:
 - **Videos**: [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A robust YouTube video downloader
 - **Transcripts**: [youtube-transcript-api](https://pypi.org/project/youtube-transcript-api/) - Python API for YouTube transcript extraction
 
-## 🚀 Quick Start
+## Evaluation
 
 ### Environment Setup
 
@@ -51,7 +51,7 @@ For video and transcript data, we recommend:
    python evaluation.py
    ```
 
-## ⚙️ Configuration
+### Configuration
 
 ### Input Data Format
 
