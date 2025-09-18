@@ -123,7 +123,7 @@ We evaluated EduVidQA across various state-of-the-art models:
 | Video-LlaVA | 7B | [arXiv:2311.10122](https://arxiv.org/abs/2311.10122) | [GitHub](https://github.com/PKU-YuanGroup/Video-LLaVA) |
 
 ### Large Vision Language Models (LVLMs)
-| Model | Parameters | Paper | Access |
+| Model | Parameters | Paper | Code |
 |-------|------------|-------|---------|
 | Qwen2VL | 7B | [arXiv:2409.12191](https://arxiv.org/abs/2409.12191) | [GitHub](https://github.com/xwjim/Qwen2-VL) |
 | LLaVA-1.5 | 13B | [arXiv:2310.03744](https://arxiv.org/abs/2310.03744) | [HuggingFace](https://huggingface.co/liuhaotian/llava-v1.5-13b) |
